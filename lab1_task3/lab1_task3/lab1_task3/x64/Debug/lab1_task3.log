@@ -1,0 +1,9 @@
+﻿  lab1_task3.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\nasty\OneDrive\Рабочий стол\код ревью\Lab1\lab1_task3\Source.cpp(39,18): warning C4244: инициализация: преобразование "_Ty" в "double", возможна потеря данных
+C:\Users\nasty\OneDrive\Рабочий стол\код ревью\Lab1\lab1_task3\Source.cpp(39,18): warning C4244:         with
+C:\Users\nasty\OneDrive\Рабочий стол\код ревью\Lab1\lab1_task3\Source.cpp(39,18): warning C4244:         [
+C:\Users\nasty\OneDrive\Рабочий стол\код ревью\Lab1\lab1_task3\Source.cpp(39,18): warning C4244:             _Ty=__int64
+C:\Users\nasty\OneDrive\Рабочий стол\код ревью\Lab1\lab1_task3\Source.cpp(39,18): warning C4244:         ]
+  lab1_task3.vcxproj -> C:\Users\nasty\OneDrive\Рабочий стол\код ревью\Lab1\lab1_task3\x64\Debug\lab1_task3.exe
