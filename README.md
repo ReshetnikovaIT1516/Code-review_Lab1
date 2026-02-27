@@ -8,7 +8,7 @@
 * Был использован using namespace std, заменено на std
 
 ## Задача 3
-Код был разделен на модули: Header.h, Source.cpp, и main.cpp
+* Код был разделен на модули: Header.h, Source.cpp, и main.cpp
 * Был использован using namespace std, заменено на std::
 
 ## Задача 4
